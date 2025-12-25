@@ -4,6 +4,7 @@ An AI-powered, role-based Resume Intelligence System built using **Python and St
 This application helps **job seekers improve their resumes for ATS systems** and **employers automate resume screening and candidate shortlisting**.
 
 https://github.com/user-attachments/assets/fa739d80-0783-473c-8679-8205847d6991
+
 Demo Link - https://ai-resume-analyser-aakash.streamlit.app/
 ---
 
